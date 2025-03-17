@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34823C25-01FF-4B69-9365-2A5F6F45B43C}|AddressBookApplication\\AddressBookApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\addressbookapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34823C25-01FF-4B69-9365-2A5F6F45B43C}|AddressBookApplication\\AddressBookApplication.csproj|solutionrelative:addressbookapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34823C25-01FF-4B69-9365-2A5F6F45B43C}|AddressBookApplication\\AddressBookApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\addressbookapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34823C25-01FF-4B69-9365-2A5F6F45B43C}|AddressBookApplication\\AddressBookApplication.csproj|solutionrelative:addressbookapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\repositorylayer\\context\\addressbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\addressbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\repositorylayer\\service\\addressbookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\addressbookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279946C9-F366-403E-BFF7-7522A2C21A41}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{279946C9-F366-403E-BFF7-7522A2C21A41}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34823C25-01FF-4B69-9365-2A5F6F45B43C}|AddressBookApplication\\AddressBookApplication.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\addressbookapplication\\controllers\\addressbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34823C25-01FF-4B69-9365-2A5F6F45B43C}|AddressBookApplication\\AddressBookApplication.csproj|solutionrelative:addressbookapplication\\controllers\\addressbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\repositorylayer\\interface\\iaddressbookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\iaddressbookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279946C9-F366-403E-BFF7-7522A2C21A41}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\businesslayer\\interface\\iaddressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279946C9-F366-403E-BFF7-7522A2C21A41}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\iaddressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279946C9-F366-403E-BFF7-7522A2C21A41}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\businesslayer\\service\\addressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279946C9-F366-403E-BFF7-7522A2C21A41}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\addressbookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\lenovo\\onedrive\\desktop\\work\\addressbookapplication\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B63C6770-82E8-469E-ACD1-4335BDCB7CFE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddressBookRL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Service\\AddressBookRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\AddressBookRL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Service\\AddressBookRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\AddressBookRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:10:06.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\AddressBookApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AddressBookApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\AddressBookApplication\\Program.cs",
+              "RelativeToolTip": "AddressBookApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:53:40.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressBookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Context\\AddressBookContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\AddressBookContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Context\\AddressBookContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\AddressBookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:51:14.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:51:14.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAddressBookRL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Interface\\IAddressBookRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IAddressBookRL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\Interface\\IAddressBookRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IAddressBookRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:51:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressBookController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\AddressBookApplication\\Controllers\\AddressBookController.cs",
+              "RelativeDocumentMoniker": "AddressBookApplication\\Controllers\\AddressBookController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\AddressBookApplication\\Controllers\\AddressBookController.cs",
+              "RelativeToolTip": "AddressBookApplication\\Controllers\\AddressBookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:51:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\AddressBookApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "AddressBookApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\AddressBookApplication\\appsettings.json",
+              "RelativeToolTip": "AddressBookApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T17:51:08.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T17:51:14.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddressBookBL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\BusinessLayer\\Service\\AddressBookBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\AddressBookBL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\BusinessLayer\\Service\\AddressBookBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\AddressBookBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:51:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAddressBookBL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IAddressBookBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:51:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryLayer",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\work\\AddressBookApplication\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T17:51:12.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
