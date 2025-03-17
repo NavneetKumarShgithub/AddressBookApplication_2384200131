@@ -1,0 +1,129 @@
+[
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
+    "Method": "AddContact",
+    "RelativePath": "AddressBook/AddContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userEntity",
+        "Type": "RepositoryLayer.Entity.UserEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
+    "Method": "DeleteContact",
+    "RelativePath": "AddressBook/DeleteContact/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
+    "Method": "EditContact",
+    "RelativePath": "AddressBook/EditContact",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateModel",
+        "Type": "ModelLayer.Model.PartialUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
+    "Method": "GetAllContacts",
+    "RelativePath": "AddressBook/GetAllContacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
+    "Method": "GetContactById",
+    "RelativePath": "AddressBook/GetContactById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
+    "Method": "UpdateContact",
+    "RelativePath": "AddressBook/UpdateContact/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userEntity",
+        "Type": "RepositoryLayer.Entity.UserEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "ModelLayer.DTOs.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "ModelLayer.DTOs.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
