@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RepositoryLayer.Entity
+{
+    [Table("AddressBook")]
+    public class UserEntity
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int Id { get; set; }
+
+        [Required]
+        public string Name { get; set; }
+
+        [Required]
+        [EmailAddress]
+        public string Email { get; set; }
+
+        [Required]
+        [Phone]
+        public string PhoneNumber { get; set; }
+
+        public string Address { get; set; }
+
+        [Required]
+        public string PasswordHash { get; set; }
+
+        public string? ResetToken { get; set; } 
+        public DateTime? ResetTokenExpiry { get; set; }
+
+    }
+}

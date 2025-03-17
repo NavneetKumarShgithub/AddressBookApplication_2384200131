@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RepositoryLayer</id>
+    <version>1.0.0</version>
+    <authors>RepositoryLayer</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="6.0.36" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="6.0.36" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="6.0.36" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="6.0.36" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lenovo\OneDrive\Desktop\work\AddressBookApplication\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json" target="lib\net6.0\RepositoryLayer.runtimeconfig.json" />
+    <file src="C:\Users\Lenovo\OneDrive\Desktop\work\AddressBookApplication\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll" target="lib\net6.0\RepositoryLayer.dll" />
+  </files>
+</package>
